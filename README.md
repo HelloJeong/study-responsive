@@ -1,4 +1,4 @@
-# React, TS, styled-components를 활용한 반응형웹 만들기 연습
+# React, TS, styled-components를 활용한 반응형웹 만들기 연습!
 
 ## styled-components
 
